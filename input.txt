@@ -1,0 +1,12 @@
+m to km of 1000.343
+km to m of 823
+ft to inch of 24
+pound to g of 991
+kg to pound of 9.1
+g to tonne of 12845.43
+inch to km of 767
+km to inch of 1
+inch to g of 23
+tonne to km of 232
+
+
