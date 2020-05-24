@@ -21,6 +21,17 @@ km      {return km;}
 pound       {return pound;} 
 g       {return g;}
 kg      {return kg;}
+pascal      {return pascal;}
+bar	{return bar;}
+joule	{return joule;}
+cal	{return cal;}
+hr	{return hr;}
+min	{return min;}
+s	{return s;}
+msec	{return msec;}
+kmhr	{return kmhr;}
+deg	{return deg;}
+rad	{return rad;}
 inch        {return inch;}
 ft		{return ft;} 
 [\n]	{return yytext;}

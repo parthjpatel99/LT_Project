@@ -6,7 +6,11 @@ kg to pound of 9.1
 g to tonne of 12845.43
 inch to km of 767
 km to inch of 1
-inch to g of 23
-tonne to km of 232
+pascal to bar of 10
+deg to rad of 180
+msec to kmhr of 100
+s to hr of 60
+joule to cal of 254
+
 
 
