@@ -50,7 +50,18 @@
      km = 266,
      g = 267,
      kg = 268,
-     of = 269
+     of = 269,
+     deg = 270,
+     rad = 271,
+     pascal = 272,
+     bar = 273,
+     msec = 274,
+     kmhr = 275,
+     s = 276,
+     min = 277,
+     hr = 278,
+     joule = 279,
+     cal = 280
    };
 #endif
 /* Tokens.  */
@@ -66,6 +77,17 @@
 #define g 267
 #define kg 268
 #define of 269
+#define deg 270
+#define rad 271
+#define pascal 272
+#define bar 273
+#define msec 274
+#define kmhr 275
+#define s 276
+#define min 277
+#define hr 278
+#define joule 279
+#define cal 280
 
 
 
@@ -75,14 +97,14 @@ typedef union YYSTYPE
 {
 
 /* Line 1676 of yacc.c  */
-#line 10 "yaccfile.y"
+#line 8 "yaccfile.y"
 
 float real;
 
 
 
 /* Line 1676 of yacc.c  */
-#line 86 "y.tab.h"
+#line 108 "y.tab.h"
 } YYSTYPE;
 # define YYSTYPE_IS_TRIVIAL 1
 # define yystype YYSTYPE /* obsolescent; will be withdrawn */
